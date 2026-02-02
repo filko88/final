@@ -1,0 +1,11 @@
+api url = 
+https://www.acbuy.com/prefix-api/store-product/product/api/item/detail?itemId={itemId}&source={source}
+
+sources = AL,WD,TB 
+al = 1688.com
+wd = weidian.com
+tb = taobao.com
+
+itemid is just itemid from the url
+
+https://weidian.com/item.html?itemID=7573302426&spider_token=d389 use this as example
